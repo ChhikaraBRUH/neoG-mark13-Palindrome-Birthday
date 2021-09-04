@@ -1,0 +1,85 @@
+.App {
+	font-family: montserrat, sans-serif;
+	text-align: center;
+	margin: auto;
+	padding: 1rem;
+	position: absolute;
+	top: 47%;
+	left: 50%;
+	transform: translate(-50%, -53%);
+	background-color: #ffc864;
+	border-radius: 2rem;
+	max-width: 80%;
+}
+
+body {
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	background-color: #2f2f30;
+}
+
+hr {
+	/* color: #ffffff; */
+}
+
+h1 {
+	/* color: #ffffff; */
+}
+
+#dateLabel {
+	max-width: 90%;
+	/* color: #ffffff; */
+	margin: auto;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+#dateInput {
+	display: block;
+	text-align: center;
+	margin: auto;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+}
+
+#outputTxt {
+	margin: auto;
+	/* color: #ffffff; */
+	max-width: 90%;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+#checkBtn {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin: auto;
+}
+
+img {
+	margin: 1rem 1rem 0rem 1rem;
+	width: 1.8rem;
+}
+
+a {
+	text-decoration: none;
+}
+
+#cautionNotice {
+	margin: auto;
+	position: absolute;
+	width: 90%;
+	top: 110%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 1.2rem;
+	padding: 0.5rem;
+	background-color: #3b82f6;
+	color: #ffffff;
+	border-radius: 1rem;
+	text-align: center;
+	max-width: max-content;
+	font-family: lato;
+}
